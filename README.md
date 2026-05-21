@@ -103,7 +103,7 @@ Utilize o:
 ## 📷 Preview do Projeto
 
 <p align="center">
-  <img src="./assets/dashboard.png" width="900"/>
+  <img src="./Assets/dashboard.png" width="900"/>
 </p>
 
 ---
